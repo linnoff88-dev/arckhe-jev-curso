@@ -1,0 +1,7 @@
+{
+  "signature": "174961b071fee6988c07bede9891b6e70e08c804cd16d5fb849a8125bfafa087",
+  "model": "openai/gpt-5.4-nano",
+  "source_version": "course-i18n-1.0.0",
+  "prompt_sha256": "891f8c2b715056b86559707ed9def326fb2f11b65e2da8c1193f7b1e68c57ea9",
+  "context": "jev-curso"
+}

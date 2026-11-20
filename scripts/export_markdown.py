@@ -1,0 +1,18 @@
+from pathlib import Path
+import json
+root=Path(__file__).resolve().parents[1]
+modules=json.loads((root/'conteudo/curso.json').read_text())
+out=root/'aulas';out.mkdir(exist_ok=True)
+for m in modules:
+ text=[f'# Módulo {m["number"]} — {m["title"]}',m['goal']]
+ for l in m['lessons']:
+  text.extend([f'## Aula {l["id"]} — {l["title"]}',*l['body'],'### Exemplo resolvido',l['example'],'### Sua vez',l['exercise'],'<details>\n<summary>Conferir resposta comentada</summary>\n\n'+l['answer']+'\n\n</details>'])
+ text.append('[Voltar ao índice](../README.md)')
+ (out/f'modulo-{m["number"]:02}.md').write_text('\n\n'.join(text)+'\n')
+index=['# Jev na prática','**v1.5.0** · Curso autoral em português: **3 trilhas, 12 módulos, 36 aulas e 12 laboratórios**.','[Abrir o curso HTML v2](https://inematds.github.io/jev-curso/). Progresso, dúvidas, anotações, aparência, exercícios e roteiro pessoal com exportação local. As aulas também continuam disponíveis em Markdown. Nenhum dado recebido para análise é publicado.','[Aplicação e guia](https://inematds.github.io/jev/guia/) · [Laboratório de 20 casos](https://inematds.github.io/jev/app/)','## Comece por aqui','Percurso conceitual: módulos 1–8, sem exigir código. Percurso técnico: módulos 9–12, com noções de JSON, terminal e Python. Estimativa de 18 horas incluindo exercícios e projeto; a leitura isolada é mais curta.']
+for t,start in [('Entender',0),('Aplicar',4),('Construir e avaliar',8)]:
+ index.append('## Trilha — '+t)
+ for m in modules[start:start+4]:index.append(f'- [Módulo {m["number"]} — {m["title"]}](aulas/modulo-{m["number"]:02}.md)')
+index.extend(['## Prática com os recursos atuais','[Roteiro: 17 pacotes, lotes e avaliação por pergunta](materiais/fluxos-praticos.md). Inclui OpenRouter, skill para Codex/Claude Code e observação no OpenPCBot. Os sete pacotes novos têm exemplos simulados; não são benchmark nem conectores prontos.','## Laboratórios','[Materiais, atividades e gabaritos](materiais/README.md) · [Projeto final](materiais/projeto-final.md)','## Como estudar','Leia a situação, resolva o exercício antes de abrir a resposta e anote onde faltou informação. Nos laboratórios, diferencie dado fictício, resposta simulada e inferência real. Nenhuma simulação comprova desempenho do Jev.','## Limites e referências','Curso educacional independente. Casos clínicos, jurídicos e financeiros são fictícios e supervisionados. Não há diagnóstico, aprovação contratual ou transação automática. A tarifa usada nos exercícios foi consultada em 18/09/2026; confira atualizações na [documentação TypeSafe](https://docs.typesafe.ai/models).','[Exageros e dúvidas — análise técnica](https://github.com/inematds/jev/blob/main/docs/07-exageros-e-duvidas.md) · [Modelos, preços e limites oficiais](https://docs.typesafe.ai/models) · [Experimentos reproduzíveis](https://github.com/inematds/jev/blob/main/docs/08-experimentos.md)','## Manutenção','A fonte autoral das aulas fica em `conteudo/curso.json`. Para regenerar Markdown: `python3 scripts/export_markdown.py`. Para gerar as 18 páginas e o artefato público: `python3 scripts/build_site.py`. O plano pedagógico original permanece em `planejamento/`.'])
+(root/'README.md').write_text('\n\n'.join(index)+'\n')
+print('12 módulos Markdown exportados a partir das 36 aulas autorais.')

@@ -1,0 +1,4 @@
+{
+  "ee1f793edf37c0c8332c7295": "Context: “refund as credit valid for 12 months.” Question: “how will the refund be issued?” Options: cash / credit / not provided. Answer key: credit.",
+  "633619fe8a586cfee770a176": "Use in the project: python3 -m jev_lab validate exemplos/triagem-request.json. This command validates the contract locally and does not make an AI call."
+}

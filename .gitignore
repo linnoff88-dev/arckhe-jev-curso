@@ -1,0 +1,11 @@
+# Segredos e dados operacionais
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+data/private/
+*.log
+
+_site/
+node_modules/
