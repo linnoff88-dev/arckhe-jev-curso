@@ -2,9 +2,9 @@
 
 **v1.5.0** · Original Portuguese course: **3 tracks, 12 modules, 36 lessons, and 12 labs**.
 
-[Open HTML course v2](https://inematds.github.io/jev-curso/). Progress, questions, notes, appearance, exercises, and your personal roadmap with local export. Lessons are also available in Markdown. No received data for analysis is published.
+[Open HTML course v2](https://linnoff88-dev.github.io/arckhe-/). Progress, questions, notes, appearance, exercises, and your personal roadmap with local export. Lessons are also available in Markdown. No received data for analysis is published.
 
-[Application and guide](https://inematds.github.io/jev/guia/) · [Lab of 20 cases](https://inematds.github.io/jev/app/)
+[Application and guide](https://linnoff88-dev.github.io/arckhe-/guia/) · [Lab of 20 cases](https://linnoff88-dev.github.io/arckhe-/app/)
 
 ## Start here
 
@@ -56,7 +56,7 @@ Read the scenario, solve the exercise before opening the answer, and note what i
 
 Independent educational course. Clinical, legal, and financial cases are fictional and supervised. There is no diagnosis, contractual approval, or automatic transaction. The fee used in the exercises was checked on 18/09/2026; review updates in the [TypeSafe documentation](https://docs.typesafe.ai/models).
 
-[Exaggerations and doubts — technical analysis](https://github.com/inematds/jev/blob/main/docs/07-exageros-e-duvidas.md) · [Official models, prices, and limits](https://docs.typesafe.ai/models) · [Reproducible experiments](https://github.com/inematds/jev/blob/main/docs/08-experimentos.md)
+[Exaggerations and doubts — technical analysis](https://github.com/linnoff88-dev/jev/blob/main/docs/07-exageros-e-duvidas.md) · [Official models, prices, and limits](https://docs.typesafe.ai/models) · [Reproducible experiments](https://github.com/linnoff88-dev/jev/blob/main/docs/08-experimentos.md)
 
 ## Maintenance
 

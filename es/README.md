@@ -2,9 +2,9 @@
 
 **v1.5.0** · Curso autoral en portugués: **3 trilhas, 12 módulos, 36 clases y 12 laboratorios**.
 
-[Abrir el curso HTML v2](https://inematds.github.io/jev-curso/). Progreso, dudas, anotaciones, apariencia, ejercicios y guion personal con exportación local. Las clases también siguen disponibles en Markdown. Ningún dato recibido para análisis se publica.
+[Abrir el curso HTML v2](https://linnoff88-dev.github.io/arckhe-/). Progreso, dudas, anotaciones, apariencia, ejercicios y guion personal con exportación local. Las clases también siguen disponibles en Markdown. Ningún dato recibido para análisis se publica.
 
-[Aplicación y guía](https://inematds.github.io/jev/guia/) · [Laboratorio de 20 casos](https://inematds.github.io/jev/app/)
+[Aplicación y guía](https://linnoff88-dev.github.io/arckhe-/guia/) · [Laboratorio de 20 casos](https://linnoff88-dev.github.io/arckhe-/app/)
 
 ## Empieza por aquí
 
@@ -56,7 +56,7 @@ Lee la situación, resuelve el ejercicio antes de abrir la respuesta y anota dó
 
 Curso educativo independiente. Los casos clínicos, jurídicos y financieros son ficticios y están supervisados. No hay diagnóstico, aprobación contractual ni transacción automática. La tarifa usada en los ejercicios se consultó el 18/09/2026; consulta actualizaciones en la [documentación de TypeSafe](https://docs.typesafe.ai/models).
 
-[Exageraciones y dudas — análisis técnico](https://github.com/inematds/jev/blob/main/docs/07-exageros-e-duvidas.md) · [Modelos, precios y límites oficiales](https://docs.typesafe.ai/models) · [Experimentos reproducibles](https://github.com/inematds/jev/blob/main/docs/08-experimentos.md)
+[Exageraciones y dudas — análisis técnico](https://github.com/linnoff88-dev/jev/blob/main/docs/07-exageros-e-duvidas.md) · [Modelos, precios y límites oficiales](https://docs.typesafe.ai/models) · [Experimentos reproducibles](https://github.com/linnoff88-dev/jev/blob/main/docs/08-experimentos.md)
 
 ## Mantenimiento
 

@@ -21,7 +21,7 @@ El error con confidence 0,97 permanece aceptado en ambos casos. Aumentar el umbr
 
 ## Integración con la aplicación
 
-[Diez casos completos](dez-casos.json) contienen estado, preguntas, criterios, respuesta simulada y comentario. El [laboratorio web](https://inematds.github.io/jev/app/) permite explorar los mismos casos.
+[Diez casos completos](dez-casos.json) contienen estado, preguntas, criterios, respuesta simulada y comentario. El [laboratorio web](https://linnoff88-dev.github.io/arckhe-/app/) permite explorar los mismos casos.
 
 ## Entrega final
 
@@ -38,7 +38,7 @@ Todos incluyen situaciones ficticias y solucionarios.
 | L11 — Evidencias | [Seis pasajes](l11-evidencias.json) | Preservar contradicciones, negaciones e IDs. |
 | L12 — Demos | [Ocho alegaciones](l12-auditoria-demos.json) | Emitir un veredicto y listar la evidencia aún necesaria. |
 
-[Veinte casos de la aplicación](vinte-casos.json) incluyen las tres primitivas y preguntas combinadas. El archivo anterior con diez casos permanece como material inicial. Para práctica técnica, usa la [guía de experimentos](https://github.com/inematds/jev/blob/main/docs/08-experimentos.md).
+[Veinte casos de la aplicación](vinte-casos.json) incluyen las tres primitivas y preguntas combinadas. El archivo anterior con diez casos permanece como material inicial. Para práctica técnica, usa la [guía de experimentos](https://github.com/linnoff88-dev/jev/blob/main/docs/08-experimentos.md).
 
 ## Guía complementaria actualizada
 

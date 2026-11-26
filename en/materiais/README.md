@@ -21,7 +21,7 @@ The error with confidence 0,97 remains accepted in both. Raising the threshold d
 
 ## Integration with the application
 
-[Ten complete cases](dez-casos.json) include state, questions, criteria, a simulated answer, and a comment. The [web lab](https://inematds.github.io/jev/app/) lets you explore the same cases.
+[Ten complete cases](dez-casos.json) include state, questions, criteria, a simulated answer, and a comment. The [web lab](https://linnoff88-dev.github.io/arckhe-/app/) lets you explore the same cases.
 
 ## Final delivery
 
@@ -38,7 +38,7 @@ All of them include fictional scenarios and answer keys.
 | L11 — Evidence | [Six passages](l11-evidencias.json) | Preserve contradictions, negations, and IDs. |
 | L12 — Demos | [Eight claims](l12-auditoria-demos.json) | Render a verdict and list the evidence still needed. |
 
-[Twenty application cases](vinte-casos.json) include the three primitives and combined questions. The previous file with ten cases remains as starter material. For technical practice, use the [experiment guide](https://github.com/inematds/jev/blob/main/docs/08-experimentos.md).
+[Twenty application cases](vinte-casos.json) include the three primitives and combined questions. The previous file with ten cases remains as starter material. For technical practice, use the [experiment guide](https://github.com/linnoff88-dev/jev/blob/main/docs/08-experimentos.md).
 
 ## Updated companion roadmap
 

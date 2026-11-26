@@ -31,10 +31,10 @@ Estimación editorial inicial: 8–12 días hábiles, más validación con alumn
 
 ## Fuentes canónicas
 
-La [análisis crítico](https://github.com/inematds/jev/blob/main/docs/01-analise.md) contiene la auditoría de los materiales; el [catálogo de fuentes](https://github.com/inematds/jev/blob/main/fontes/README.md) reúne referencias públicas oficiales. Consultar páginas oficiales al actualizar ejemplos: [primitivas](https://docs.typesafe.ai/primitives), [confidence](https://docs.typesafe.ai/confidence), [API](https://docs.typesafe.ai/api), [limitaciones](https://docs.typesafe.ai/model-jaggedness/jev-1.13).
+La [análisis crítico](https://github.com/linnoff88-dev/jev/blob/main/docs/01-analise.md) contiene la auditoría de los materiales; el [catálogo de fuentes](https://github.com/linnoff88-dev/jev/blob/main/fontes/README.md) reúne referencias públicas oficiales. Consultar páginas oficiales al actualizar ejemplos: [primitivas](https://docs.typesafe.ai/primitives), [confidence](https://docs.typesafe.ai/confidence), [API](https://docs.typesafe.ai/api), [limitaciones](https://docs.typesafe.ai/model-jaggedness/jev-1.13).
 
 Los materiales recibidos para análisis no integran el repositorio. Los ejemplos didácticos serán autorales, ficticios e identificados; solo resultados efectivamente medidos podrán presentarse como benchmark propio.
 
 ## Decisión pendiente para HTML
 
-El usuario deberá elegir **formato-curso-v5** (público 40+ legos, INEMA.PRO) o **formato-curso-v2** (dark âmbar y capa de aprendizaje). Esto no bloquea este plan. Antes de la conversión, leer la skill elegida y ejecutar las verificaciones reales de navegación y aprendizaje que ella exija.
+El usuario deberá elegir **formato-curso-v5** (público 40+ legos, ARCKHÉ.PRO) o **formato-curso-v2** (dark âmbar y capa de aprendizaje). Esto no bloquea este plan. Antes de la conversión, leer la skill elegida y ejecutar las verificaciones reales de navegación y aprendizaje que ella exija.

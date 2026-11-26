@@ -35,7 +35,7 @@ The 18 h include reading, exercises, and a project. This is an estimate to adjus
 
 Each class: concrete situation → concept in plain language → solved example → common mistake → exercise → correction criterion → link to the next class. Start with an inbox, not the supplier’s marketing. Introduce technical terms after showing the problem they solve.
 
-Continuous case: an INEMA team receives access requests, billing, and sales information. With each track, the student improves triage, without sending real messages or moving money.
+Continuous case: an ARCKHÉ team receives access requests, billing, and sales information. With each track, the student improves triage, without sending real messages or moving money.
 
 ## API dependency
 

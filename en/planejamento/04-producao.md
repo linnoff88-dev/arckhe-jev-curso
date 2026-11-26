@@ -31,10 +31,10 @@ Initial editorial estimate: 8–12 business days, plus validation with students.
 
 ## Canonical sources
 
-The [critical analysis](https://github.com/inematds/jev/blob/main/docs/01-analise.md) contains an audit of the materials; the [source catalog](https://github.com/inematds/jev/blob/main/fontes/README.md) brings together official public references. Consult official pages when updating examples: [primitives](https://docs.typesafe.ai/primitives), [confidence](https://docs.typesafe.ai/confidence), [API](https://docs.typesafe.ai/api), [limitations](https://docs.typesafe.ai/model-jaggedness/jev-1.13).
+The [critical analysis](https://github.com/linnoff88-dev/jev/blob/main/docs/01-analise.md) contains an audit of the materials; the [source catalog](https://github.com/linnoff88-dev/jev/blob/main/fontes/README.md) brings together official public references. Consult official pages when updating examples: [primitives](https://docs.typesafe.ai/primitives), [confidence](https://docs.typesafe.ai/confidence), [API](https://docs.typesafe.ai/api), [limitations](https://docs.typesafe.ai/model-jaggedness/jev-1.13).
 
 The materials received for analysis are not integrated into the repository. Educational examples will be original, fictional, and identified; only results effectively measured may be presented as your own benchmark.
 
 ## Pending decision for HTML
 
-The user must choose **formato-curso-v5** (audience 40+ non-expert, INEMA.PRO) or **formato-curso-v2** (dark âmbar and learning layer). This does not block this plan. Before conversion, read the chosen skill and run the real navigation and learning checks it requires.
+The user must choose **formato-curso-v5** (audience 40+ non-expert, ARCKHÉ.PRO) or **formato-curso-v2** (dark âmbar and learning layer). This does not block this plan. Before conversion, read the chosen skill and run the real navigation and learning checks it requires.

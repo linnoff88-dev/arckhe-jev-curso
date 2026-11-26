@@ -8,9 +8,9 @@
 
 **v1.5.0** êÂ· Curso autoral em portuguêÂªs: **3 trilhas, 12 mêÂ³dulos, 36 aulas e 12 laboratêÂ³rios**.
 
-[Abrir o curso HTML v2](https://inematds.github.io/jev-curso/). Progresso, dêÂºvidas, anotaêÂ§êÂµes, aparêÂªncia, exercêÂ­cios e roteiro pessoal com exportaêÂ§êÂ£o local. As aulas tambêÂ©m continuam disponêÂ­veis em Markdown. Nenhum dado recebido para anêÂ¡lise êÂ© publicado.
+[Abrir o curso HTML v2](https://linnoff88-dev.github.io/arckhe-/). Progresso, dêÂºvidas, anotaêÂ§êÂµes, aparêÂªncia, exercêÂ­cios e roteiro pessoal com exportaêÂ§êÂ£o local. As aulas tambêÂ©m continuam disponêÂ­veis em Markdown. Nenhum dado recebido para anêÂ¡lise êÂ© publicado.
 
-[AplicaêÂ§êÂ£o e guia](https://inematds.github.io/jev/guia/) êÂ· [LaboratêÂ³rio de 20 casos](https://inematds.github.io/jev/app/)
+[AplicaêÂ§êÂ£o e guia](https://linnoff88-dev.github.io/arckhe-/guia/) êÂ· [LaboratêÂ³rio de 20 casos](https://linnoff88-dev.github.io/arckhe-/app/)
 
 ## Comece por aqui
 
@@ -62,7 +62,7 @@ Leia a situaêÂ§êÂ£o, resolva o exercêÂ­cio antes de abrir a respo
 
 Curso educacional independente. Casos clêÂ­nicos, jurêÂ­dicos e financeiros sêÂ£o fictêÂ­cios e supervisionados. NêÂ£o hêÂ¡ diagnêÂ³stico, aprovaêÂ§êÂ£o contratual ou transaêÂ§êÂ£o automêÂ¡tica. A tarifa usada nos exercêÂ­cios foi consultada em 18/09/2026; confira atualizaêÂ§êÂµes na [documentaêÂ§êÂ£o TypeSafe](https://docs.typesafe.ai/models).
 
-[Exageros e dêÂºvidas ê¢â¬â anêÂ¡lise têÂ©cnica](https://github.com/inematds/jev/blob/main/docs/07-exageros-e-duvidas.md) êÂ· [Modelos, preêÂ§os e limites oficiais](https://docs.typesafe.ai/models) êÂ· [Experimentos reproduzêÂ­veis](https://github.com/inematds/jev/blob/main/docs/08-experimentos.md)
+[Exageros e dêÂºvidas ê¢â¬â anêÂ¡lise têÂ©cnica](https://github.com/linnoff88-dev/jev/blob/main/docs/07-exageros-e-duvidas.md) êÂ· [Modelos, preêÂ§os e limites oficiais](https://docs.typesafe.ai/models) êÂ· [Experimentos reproduzêÂ­veis](https://github.com/linnoff88-dev/jev/blob/main/docs/08-experimentos.md)
 
 ## ManutenêÂ§êÂ£o
 

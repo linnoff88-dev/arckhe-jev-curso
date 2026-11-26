@@ -7,7 +7,7 @@ It follows course v1.3.0 and the Jev project v1.6.1. Run the commands in the roo
 The project has 17 packages: the ten initial ones and seven new ones for inbox, YouTube comments, communities, meetings, transcript cut-downs, notes, and curation.
 
 ```bash
-git clone https://github.com/inematds/jev.git
+git clone https://github.com/linnoff88-dev/jev.git
 cd jev
 python3 -m pacotes.executar --list
 python3 -m pacotes.executar reunioes
@@ -69,4 +69,4 @@ Define, with independent human reference:
 
 For Codex and Claude Code, the skill `jev-decidir` queries the client as a tool. In OpenPCBot v3, `/jev observar` uses its own gateway and only compares suggestions; `/ajuda jev` explains the feature. The notes and meetings packages are still not new native bot commands.
 
-[Complete integration instructions and reference format](https://github.com/inematds/jev/blob/main/docs/11-fluxos-praticos.md) · [Packages](https://github.com/inematds/jev/tree/main/pacotes) · [Back to course](../README.md).
+[Complete integration instructions and reference format](https://github.com/linnoff88-dev/jev/blob/main/docs/11-fluxos-praticos.md) · [Packages](https://github.com/linnoff88-dev/jev/tree/main/pacotes) · [Back to course](../README.md).

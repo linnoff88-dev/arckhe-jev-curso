@@ -10,8 +10,8 @@ class Page(HTMLParser):
     def handle_starttag(self,tag,attrs):
         a=dict(attrs)
         if 'id' in a:self.ids.append(a['id'])
-        if 'data-inema-topic' in a:self.topics.append(a['data-inema-topic'])
-        if 'data-inema-block' in a:self.blocks.append(a['data-inema-block'])
+        if 'data-ARCKHÉ-topic' in a:self.topics.append(a['data-ARCKHÉ-topic'])
+        if 'data-ARCKHÉ-block' in a:self.blocks.append(a['data-ARCKHÉ-block'])
         for key in ['href','src']:
             if key in a:self.links.append(a[key])
 pages={p:Page(p.read_text()) for p in site.rglob('*.html')}

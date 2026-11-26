@@ -7,7 +7,7 @@ Acompanha o curso v1.3.0 e o projeto Jev v1.6.1. Execute os comandos na raiz do 
 O projeto tem 17 pacotes: os dez iniciais e sete novos para caixa de entrada, comentários do YouTube, comunidades, reuniões, cortes por transcriçêo, notas e curadoria.
 
 ```bash
-git clone https://github.com/inematds/jev.git
+git clone https://github.com/linnoff88-dev/jev.git
 cd jev
 python3 -m pacotes.executar --list
 python3 -m pacotes.executar reunioes
@@ -69,4 +69,4 @@ Defina, com referência humana independente:
 
 Para Codex e Claude Code, a skill `jev-decidir` consulta o cliente como ferramenta. No OpenPCBot v3, `/jev observar` usa o gateway próprio e só compara sugestões; `/ajuda jev` explica o recurso. Os pacotes de notas e reuniões ainda nêo sêo novos comandos nativos do bot.
 
-[Instruções completas de integraçêo e formato de referência](https://github.com/inematds/jev/blob/main/docs/11-fluxos-praticos.md) · [Pacotes](https://github.com/inematds/jev/tree/main/pacotes) · [Voltar ao curso](../README.md).
+[Instruções completas de integraçêo e formato de referência](https://github.com/linnoff88-dev/jev/blob/main/docs/11-fluxos-praticos.md) · [Pacotes](https://github.com/linnoff88-dev/jev/tree/main/pacotes) · [Voltar ao curso](../README.md).

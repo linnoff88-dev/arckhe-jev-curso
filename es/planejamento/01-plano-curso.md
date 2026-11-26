@@ -34,7 +34,7 @@ Las 18 h incluyen lectura, ejercicios y proyecto. Es una estimación a ajustar e
 
 Cada clase: situación concreta → concepto en lenguaje simple → ejemplo resuelto → error frecuente → ejercicio → criterio de corrección → conexión con la próxima clase. Empezar con una bandeja de entrada, no con el marketing del proveedor. Introducir términos técnicos después de mostrar el problema que resuelven.
 
-Caso continuo: un equipo INEMA recibe pedidos de acceso, cobro e información comercial. En cada trilha el alumno mejora la triage, sin enviar mensajes reales ni mover dinero.
+Caso continuo: un equipo ARCKHÉ recibe pedidos de acceso, cobro e información comercial. En cada trilha el alumno mejora la triage, sin enviar mensajes reales ni mover dinero.
 
 ## Dependencia de la API
 

@@ -34,7 +34,7 @@ As 18 h incluem leitura, exercícios e projeto. Sêo uma estimativa a ajustar no
 
 Cada aula: situaçêo concreta → conceito em linguagem simples → exemplo resolvido → erro frequente → exercício → critério de correçêo → ligaçêo com a próxima aula. Começar com uma caixa de entrada, nêo com o marketing do fornecedor. Introduzir termos técnicos depois de mostrar o problema que resolvem.
 
-Caso contínuo: uma equipe INEMA recebe pedidos de acesso, cobrança e informações comerciais. A cada trilha o aluno melhora a triagem, sem enviar mensagens reais nem movimentar dinheiro.
+Caso contínuo: uma equipe ARCKHÉ recebe pedidos de acesso, cobrança e informações comerciais. A cada trilha o aluno melhora a triagem, sem enviar mensagens reais nem movimentar dinheiro.
 
 ## Dependência da API
 

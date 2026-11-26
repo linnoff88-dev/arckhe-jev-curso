@@ -21,7 +21,7 @@ O erro com confidence 0,97 permanece aceito nos dois. Aumentar o limiar nêo eli
 
 ## Integraçêo com a aplicaçêo
 
-[Dez casos completos](dez-casos.json) contêm estado, perguntas, critérios, resposta simulada e comentário. O [laboratório web](https://inematds.github.io/jev/app/) permite explorar os mesmos casos.
+[Dez casos completos](dez-casos.json) contêm estado, perguntas, critérios, resposta simulada e comentário. O [laboratório web](https://linnoff88-dev.github.io/arckhe-/app/) permite explorar os mesmos casos.
 
 ## Entrega final
 
@@ -38,7 +38,7 @@ Todos incluem situações fictícias e gabaritos.
 | L11 — Evidências | [Seis passagens](l11-evidencias.json) | Preservar contradições, negações e IDs. |
 | L12 — Demos | [Oito alegações](l12-auditoria-demos.json) | Dar veredito e listar a evidência ainda necessária. |
 
-[Vinte casos da aplicaçêo](vinte-casos.json) incluem as três primitivas e perguntas combinadas. O arquivo anterior com dez casos permanece como material inicial. Para prática técnica, use o [guia de experimentos](https://github.com/inematds/jev/blob/main/docs/08-experimentos.md).
+[Vinte casos da aplicaçêo](vinte-casos.json) incluem as três primitivas e perguntas combinadas. O arquivo anterior com dez casos permanece como material inicial. Para prática técnica, use o [guia de experimentos](https://github.com/linnoff88-dev/jev/blob/main/docs/08-experimentos.md).
 
 ## Roteiro complementar atualizado
 
