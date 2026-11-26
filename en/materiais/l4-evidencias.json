@@ -2,22 +2,22 @@
   "pares": [
     {
       "afirmacao": "O estudo prova causa.",
-      "passagem": "O estudo observou associação.",
+      "passagem": "O estudo observou associaçêo.",
       "gabarito": "reescrever"
     },
     {
-      "afirmacao": "A devolução é em crédito.",
+      "afirmacao": "A devoluçêo é em crédito.",
       "passagem": "Crédito válido por 12 meses.",
       "gabarito": "apoiada"
     },
     {
-      "afirmacao": "A reunião foi confirmada.",
-      "passagem": "Podemos marcar uma reunião?",
+      "afirmacao": "A reuniêo foi confirmada.",
+      "passagem": "Podemos marcar uma reuniêo?",
       "gabarito": "insuficiente"
     },
     {
       "afirmacao": "O serviço funciona offline.",
-      "passagem": "Conexão é obrigatória.",
+      "passagem": "Conexêo é obrigatória.",
       "gabarito": "contradita"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "afirmacao": "O relatório foi retificado.",
-      "passagem": "Versão 2 corrige o total anterior.",
+      "passagem": "Versêo 2 corrige o total anterior.",
       "gabarito": "apoiada"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "afirmacao": "O acesso dura um ano.",
-      "passagem": "Acesso por 12 meses após ativação.",
+      "passagem": "Acesso por 12 meses após ativaçêo.",
       "gabarito": "apoiada"
     }
   ],

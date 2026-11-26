@@ -25,13 +25,13 @@
   },
   {
     "id": "t05",
-    "text": "Não consigo recuperar a senha.",
+    "text": "Nêo consigo recuperar a senha.",
     "label": "suporte",
     "source": "ficticio-autoral"
   },
   {
     "id": "t06",
-    "text": "Meu login não funciona.",
+    "text": "Meu login nêo funciona.",
     "label": "suporte",
     "source": "ficticio-autoral"
   },
@@ -97,7 +97,7 @@
   },
   {
     "id": "t17",
-    "text": "Não consigo entrar na minha conta.",
+    "text": "Nêo consigo entrar na minha conta.",
     "label": "suporte",
     "source": "ficticio-autoral"
   },
@@ -127,7 +127,7 @@
   },
   {
     "id": "t22",
-    "text": "Preço e condições de contratação.",
+    "text": "Preço e condições de contrataçêo.",
     "label": "vendas",
     "source": "ficticio-autoral"
   },
@@ -139,7 +139,7 @@
   },
   {
     "id": "t24",
-    "text": "Não é cobrança; preciso trocar a senha.",
+    "text": "Nêo é cobrança; preciso trocar a senha.",
     "label": "suporte",
     "source": "ficticio-autoral"
   },
@@ -169,7 +169,7 @@
   },
   {
     "id": "t29",
-    "text": "O vídeo trava mesmo com conexão estável.",
+    "text": "O vídeo trava mesmo com conexêo estável.",
     "label": "suporte",
     "source": "ficticio-autoral"
   },

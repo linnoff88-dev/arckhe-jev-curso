@@ -1,27 +1,27 @@
 {
-  "tema": "Separar exatidão, utilidade e evidência de teste",
+  "tema": "Separar exatidêo, utilidade e evidência de teste",
   "itens": [
     {
       "codigo": "# duplica\nreturn x * 2",
       "correcao": "correto",
       "utilidade": "baixa",
-      "motivo": "Repete a operação evidente."
+      "motivo": "Repete a operaçêo evidente."
     },
     {
       "codigo": "# mantém valor positivo\nreturn -abs(x)",
       "correcao": "contradiz",
       "utilidade": "revisar",
-      "motivo": "A operação produz valor não positivo."
+      "motivo": "A operaçêo produz valor nêo positivo."
     },
     {
       "codigo": "# Espera um tick para o elemento ser montado antes de medir.\nawait next_tick()",
       "correcao": "depende do contexto",
       "utilidade": "potencialmente alta",
-      "motivo": "Explica intenção; confirmar API e contexto."
+      "motivo": "Explica intençêo; confirmar API e contexto."
     },
     {
       "codigo": "# Esta chamada nunca falha.\nreturn client.get(url)",
-      "correcao": "não demonstrada",
+      "correcao": "nêo demonstrada",
       "utilidade": "revisar",
       "motivo": "É necessária evidência do contrato de erro."
     },
@@ -35,8 +35,8 @@
       "antes": "assert total == 20",
       "depois": "assert total == 20.0",
       "esperado": "insuficiente para acusar defeito",
-      "motivo": "A mudança textual não demonstra mudança semântica; examinar linguagem/tipo."
+      "motivo": "A mudança textual nêo demonstra mudança semântica; examinar linguagem/tipo."
     }
   ],
-  "origem": "Material fictício autoral; não mede Jev."
+  "origem": "Material fictício autoral; nêo mede Jev."
 }

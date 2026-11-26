@@ -3,12 +3,12 @@
     "q": "Como separar o encaminhamento de um pedido e a soma de uma fatura?",
     "options": [
       "Usar o modelo para tudo, inclusive a soma.",
-      "Interpretar a intenção com critérios e calcular o total com código."
+      "Interpretar a intençêo com critérios e calcular o total com código."
     ],
     "answer": "1",
     "explain": {
-      "0": "Cálculos exatos dispensam interpretação; a triagem exige critérios claros.",
-      "1": "Cálculos exatos dispensam interpretação; a triagem exige critérios claros."
+      "0": "Cálculos exatos dispensam interpretaçêo; a triagem exige critérios claros.",
+      "1": "Cálculos exatos dispensam interpretaçêo; a triagem exige critérios claros."
     }
   },
   {
@@ -19,92 +19,92 @@
     ],
     "answer": "1",
     "explain": {
-      "0": "Os índices vão de 0 a 4. Normalizar usa o último índice; o resultado não é confiança.",
-      "1": "Os índices vão de 0 a 4. Normalizar usa o último índice; o resultado não é confiança."
+      "0": "Os índices vêo de 0 a 4. Normalizar usa o último índice; o resultado nêo é confiança.",
+      "1": "Os índices vêo de 0 a 4. Normalizar usa o último índice; o resultado nêo é confiança."
     }
   },
   {
     "q": "Uma resposta com confiança alta contrariou o documento. O que fazer?",
     "options": [
-      "Aceitar, porque alta confiança garante correção.",
+      "Aceitar, porque alta confiança garante correçêo.",
       "Registrar o erro e revisar a política com dados do domínio."
     ],
     "answer": "1",
     "explain": {
-      "0": "Confiança alta não elimina erro semântico. Referência humana e avaliação por classe continuam necessárias.",
-      "1": "Confiança alta não elimina erro semântico. Referência humana e avaliação por classe continuam necessárias."
+      "0": "Confiança alta nêo elimina erro semântico. Referência humana e avaliaçêo por classe continuam necessárias.",
+      "1": "Confiança alta nêo elimina erro semântico. Referência humana e avaliaçêo por classe continuam necessárias."
     }
   },
   {
     "q": "Qual custo importa para comparar duas soluções?",
     "options": [
-      "Somente o preço por milhão de tokens.",
-      "Inferência, revisão humana, fallback, infraestrutura e retrabalho."
+      "Somente o preço por milhêo de tokens.",
+      "Inferência, revisêo humana, fallback, infraestrutura e retrabalho."
     ],
     "answer": "1",
     "explain": {
-      "0": "Uma chamada barata pode aumentar custo total se exigir muita revisão ou correção.",
-      "1": "Uma chamada barata pode aumentar custo total se exigir muita revisão ou correção."
+      "0": "Uma chamada barata pode aumentar custo total se exigir muita revisêo ou correçêo.",
+      "1": "Uma chamada barata pode aumentar custo total se exigir muita revisêo ou correçêo."
     }
   },
   {
-    "q": "O atendente ofereceu um produto, mas o cliente só pediu recuperação de senha. Isso prova intenção de compra?",
+    "q": "O atendente ofereceu um produto, mas o cliente só pediu recuperaçêo de senha. Isso prova intençêo de compra?",
     "options": [
       "Sim, pois há uma oferta na conversa.",
-      "Não: é preciso distinguir a fala do atendente da intenção do cliente."
+      "Nêo: é preciso distinguir a fala do atendente da intençêo do cliente."
     ],
     "answer": "1",
     "explain": {
-      "0": "Atribuir a fala evita transformar a oferta do vendedor em intenção do comprador.",
-      "1": "Atribuir a fala evita transformar a oferta do vendedor em intenção do comprador."
+      "0": "Atribuir a fala evita transformar a oferta do vendedor em intençêo do comprador.",
+      "1": "Atribuir a fala evita transformar a oferta do vendedor em intençêo do comprador."
     }
   },
   {
-    "q": "O documento permite cancelamento, mas não informa a forma de devolução. Qual conclusão cabe?",
+    "q": "O documento permite cancelamento, mas nêo informa a forma de devoluçêo. Qual conclusêo cabe?",
     "options": [
       "O dinheiro será devolvido.",
-      "Informação insuficiente sobre a forma de reembolso."
+      "Informaçêo insuficiente sobre a forma de reembolso."
     ],
     "answer": "1",
     "explain": {
-      "0": "Uma condição omitida não pode ser preenchida pelo que parece comum no mercado.",
-      "1": "Uma condição omitida não pode ser preenchida pelo que parece comum no mercado."
+      "0": "Uma condiçêo omitida nêo pode ser preenchida pelo que parece comum no mercado.",
+      "1": "Uma condiçêo omitida nêo pode ser preenchida pelo que parece comum no mercado."
     }
   },
   {
     "q": "O roteador escolheu um agente que possui uma ferramenta de envio. A escolha autoriza enviar?",
     "options": [
-      "Sim: escolher o agente já concede permissão.",
-      "Não: autorização e execução precisam de controles próprios."
+      "Sim: escolher o agente já concede permissêo.",
+      "Nêo: autorizaçêo e execuçêo precisam de controles próprios."
     ],
     "answer": "1",
     "explain": {
-      "0": "Roteamento seleciona um caminho. Permissões e limites pertencem à camada de execução.",
-      "1": "Roteamento seleciona um caminho. Permissões e limites pertencem à camada de execução."
+      "0": "Roteamento seleciona um caminho. Permissões e limites pertencem à camada de execuçêo.",
+      "1": "Roteamento seleciona um caminho. Permissões e limites pertencem à camada de execuçêo."
     }
   },
   {
-    "q": "Um exemplo escolhe um botão entre descrições textuais. O que ele demonstra?",
+    "q": "Um exemplo escolhe um botêo entre descrições textuais. O que ele demonstra?",
     "options": [
-      "Visão computacional e autonomia completa no navegador.",
+      "Visêo computacional e autonomia completa no navegador.",
       "Escolha entre opções fornecidas no estado textual."
     ],
     "answer": "1",
     "explain": {
-      "0": "A demonstração não comprova percepção visual nem capacidade de executar ações arbitrárias.",
-      "1": "A demonstração não comprova percepção visual nem capacidade de executar ações arbitrárias."
+      "0": "A demonstraçêo nêo comprova percepçêo visual nem capacidade de executar ações arbitrárias.",
+      "1": "A demonstraçêo nêo comprova percepçêo visual nem capacidade de executar ações arbitrárias."
     }
   },
   {
     "q": "Uma resposta contém uma pergunta ausente e outra com tipo inesperado. Como integrar?",
     "options": [
-      "Aproveitar o que parece válido e continuar a ação.",
+      "Aproveitar o que parece válido e continuar a açêo.",
       "Rejeitar o contrato inválido e registrar uma falha controlada."
     ],
     "answer": "1",
     "explain": {
-      "0": "Validar o conjunto completo de perguntas evita usar resultados parciais como decisão autorizada.",
-      "1": "Validar o conjunto completo de perguntas evita usar resultados parciais como decisão autorizada."
+      "0": "Validar o conjunto completo de perguntas evita usar resultados parciais como decisêo autorizada.",
+      "1": "Validar o conjunto completo de perguntas evita usar resultados parciais como decisêo autorizada."
     }
   },
   {
@@ -115,32 +115,32 @@
     ],
     "answer": "1",
     "explain": {
-      "0": "Reutilizar os casos de ajuste como teste produz uma estimativa otimista e não mede generalização.",
-      "1": "Reutilizar os casos de ajuste como teste produz uma estimativa otimista e não mede generalização."
+      "0": "Reutilizar os casos de ajuste como teste produz uma estimativa otimista e nêo mede generalizaçêo.",
+      "1": "Reutilizar os casos de ajuste como teste produz uma estimativa otimista e nêo mede generalizaçêo."
     }
   },
   {
-    "q": "O que significa operar inicialmente em observação?",
+    "q": "O que significa operar inicialmente em observaçêo?",
     "options": [
       "Executar todas as ações e revisar depois.",
-      "Registrar decisões sem acionar o fluxo, comparando-as com a operação humana."
+      "Registrar decisões sem acionar o fluxo, comparando-as com a operaçêo humana."
     ],
     "answer": "1",
     "explain": {
-      "0": "Observação permite investigar erros antes de conceder qualquer efeito operacional.",
-      "1": "Observação permite investigar erros antes de conceder qualquer efeito operacional."
+      "0": "Observaçêo permite investigar erros antes de conceder qualquer efeito operacional.",
+      "1": "Observaçêo permite investigar erros antes de conceder qualquer efeito operacional."
     }
   },
   {
     "q": "A acurácia média melhorou, mas surgiram erros graves em uma classe. O piloto está aprovado?",
     "options": [
       "Sim: basta superar a média anterior.",
-      "Não automaticamente: revisar cobertura, erros por classe e limites de adoção."
+      "Nêo automaticamente: revisar cobertura, erros por classe e limites de adoçêo."
     ],
     "answer": "1",
     "explain": {
-      "0": "A decisão de adoção considera custos de erro e requisitos obrigatórios, não apenas a média.",
-      "1": "A decisão de adoção considera custos de erro e requisitos obrigatórios, não apenas a média."
+      "0": "A decisêo de adoçêo considera custos de erro e requisitos obrigatórios, nêo apenas a média.",
+      "1": "A decisêo de adoçêo considera custos de erro e requisitos obrigatórios, nêo apenas a média."
     }
   }
 ]

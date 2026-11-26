@@ -1,3 +1,3 @@
-# Visão geral
+# Visêo geral
 
-Repositório de curso sobre Jev, solicitado a partir de quatro materiais fornecidos em 18/09/2026. Começar pelo README. Repositórios separados: `inematds/jev` (análise e aplicação) e `inematds/jev-curso` (plano pedagógico).
+Repositório de curso sobre Jev, solicitado a partir de quatro materiais fornecidos em 18/09/2026. Começar pelo README. Repositórios separados: `inematds/jev` (análise e aplicaçêo) e `inematds/jev-curso` (plano pedagógico).

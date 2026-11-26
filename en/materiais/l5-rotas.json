@@ -5,7 +5,7 @@
     "limite": "Sem ações externas; falhas escalam após tentativa limitada."
   },
   {
-    "tarefa": "Localizar documentação oficial",
+    "tarefa": "Localizar documentaçêo oficial",
     "capacidade": "pesquisa",
     "limite": "Sem ações externas; falhas escalam após tentativa limitada."
   },
@@ -30,7 +30,7 @@
     "limite": "Sem ações externas; falhas escalam após tentativa limitada."
   },
   {
-    "tarefa": "Calcular fuso de reunião",
+    "tarefa": "Calcular fuso de reuniêo",
     "capacidade": "regra",
     "limite": "Sem ações externas; falhas escalam após tentativa limitada."
   },

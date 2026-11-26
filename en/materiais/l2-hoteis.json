@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "politica": "A devolução será na forma original de pagamento.",
+    "politica": "A devoluçêo será na forma original de pagamento.",
     "gabarito": "dinheiro"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "id": 4,
-    "politica": "A reserva não permite devolução após confirmação.",
+    "politica": "A reserva nêo permite devoluçêo após confirmaçêo.",
     "gabarito": "sem_devolucao"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "id": 6,
-    "politica": "Pagamento devolvido ao cartão em até 10 dias úteis.",
+    "politica": "Pagamento devolvido ao cartêo em até 10 dias úteis.",
     "gabarito": "dinheiro"
   }
 ]

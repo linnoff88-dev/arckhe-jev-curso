@@ -1587,7 +1587,7 @@
   }
 
   // pula para um item (topico ou nota) por ancora estavel
-  // Navegação restrita aos módulos do manifesto, inclusive em file://.
+  // Navegaçêo restrita aos módulos do manifesto, inclusive em file://.
   function navigateTopic(id) {
     if (typeof id !== 'string') return false;
     var mod = id.split('#')[0].replace(/^modulo-/, '');
@@ -1783,7 +1783,7 @@
     if (Object.keys(parsed.notes || {}).some(function(k) { return !Array.isArray(parsed.notes[k]) || parsed.notes[k].some(function(n) { return !record(n) || typeof n.id !== 'string'; }); })) {
       res.errors.push("Invalid notes."); return res;
     }
-    // Rejeita chaves de protótipo antes de qualquer gravação.
+    // Rejeita chaves de protótipo antes de qualquer gravaçêo.
     function unsafe(o) { return o && typeof o === 'object' && Object.keys(o).some(function(k) { return ['__proto__','constructor','prototype'].indexOf(k) >= 0 || unsafe(o[k]); }); }
     if (unsafe(parsed)) { res.errors.push("Invalid key."); return res; }
     var incoming = migrate(parsed);

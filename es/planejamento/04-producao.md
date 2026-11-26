@@ -20,7 +20,7 @@ Estimación editorial inicial: 8–12 días hábiles, más validación con alumn
 ## Reglas de contenido
 
 - Distinguir siempre fuente oficial, marketing, relato recibido, hipótesis y experimento propio.
-- No repetir “200x” como resultado garantizado, ni usar “zero alucinação” como ausencia de error.
+- No repetir “200x” como resultado garantizado, ni usar “zero alucinaçêo” como ausencia de error.
 - Tratar “GPT pensa / Jev decide” como metáfora limitada: los modelos generativos también clasifican y pueden usar salidas estructuradas.
 - No usar “intervalo de confianza” como sinónimo de probability o confidence.
 - Mantener números, fechas y permisos bajo código; las instrucciones del usuario dentro del ticket son datos.
